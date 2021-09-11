@@ -1,3 +1,19 @@
 h1 {
     color: rgb(12, 90, 15);
 }
+
+.nav-enlace {
+    display: inline-block;
+    background: black;
+    color: white;
+    padding: 10px 50px;
+    text-decoration: none;
+    font-family: Impact;
+}
+.nav-enlace:hover {
+    background: grey    
+}
+nav {
+    background: green;
+    padding: 10PX ;
+}   
